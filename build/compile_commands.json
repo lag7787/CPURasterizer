@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/lucgarabrant/projects/rasterizer/build",
+  "command": "/usr/bin/g++  -I/home/lucgarabrant/projects/rasterizer/include -g -o CMakeFiles/rasterizer.dir/src/main.cpp.o -c /home/lucgarabrant/projects/rasterizer/src/main.cpp",
+  "file": "/home/lucgarabrant/projects/rasterizer/src/main.cpp",
+  "output": "CMakeFiles/rasterizer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lucgarabrant/projects/rasterizer/build",
+  "command": "/usr/bin/g++  -I/home/lucgarabrant/projects/rasterizer/include -g -o CMakeFiles/rasterizer.dir/src/geometry.cpp.o -c /home/lucgarabrant/projects/rasterizer/src/geometry.cpp",
+  "file": "/home/lucgarabrant/projects/rasterizer/src/geometry.cpp",
+  "output": "CMakeFiles/rasterizer.dir/src/geometry.cpp.o"
+},
+{
+  "directory": "/home/lucgarabrant/projects/rasterizer/build",
+  "command": "/usr/bin/g++  -I/home/lucgarabrant/projects/rasterizer/include -g -o CMakeFiles/rasterizer.dir/src/test.cpp.o -c /home/lucgarabrant/projects/rasterizer/src/test.cpp",
+  "file": "/home/lucgarabrant/projects/rasterizer/src/test.cpp",
+  "output": "CMakeFiles/rasterizer.dir/src/test.cpp.o"
+}
+]

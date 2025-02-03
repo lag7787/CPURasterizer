@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/rasterizer.dir/src/main.cpp.o CMakeFiles/rasterizer.dir/src/geometry.cpp.o CMakeFiles/rasterizer.dir/src/test.cpp.o -o rasterizer 

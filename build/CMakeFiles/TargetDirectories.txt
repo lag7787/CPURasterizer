@@ -1,0 +1,3 @@
+/home/lucgarabrant/projects/rasterizer/build/CMakeFiles/rasterizer.dir
+/home/lucgarabrant/projects/rasterizer/build/CMakeFiles/edit_cache.dir
+/home/lucgarabrant/projects/rasterizer/build/CMakeFiles/rebuild_cache.dir
